@@ -1,7 +1,4 @@
-# 2210991209
 # Social Media Analytics Frontend
-
-// File: README.md
 
 This is a responsive React frontend web application that delivers real-time analytical insights from a social media platform API.
 
